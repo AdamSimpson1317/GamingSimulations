@@ -1,4 +1,4 @@
-# GamingSimulations2
+# GamingSimulations
 ## Explanation of the Project
 The Project was a set of requirements that involved features such as AI pathfinding and flocking, using forces, collision detection and state-based behaviour. The way I saw best of doing this was to create games that targeted certain sections of the mark scheme. This meant that I had a hub world that had 4 games that could be accessed. 
 
